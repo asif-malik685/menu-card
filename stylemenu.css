@@ -1,0 +1,48 @@
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4biC4wxQxJG6ywKv-Y--wvOYDw43J0WLfrcj7vXE2vQ&s);
+font-family: sans-serif;
+padding: 20px;
+}
+.menu{
+width: 80%;
+background-color: burlywood;
+margin-left: auto;
+margin-right: auto;
+padding: 20px;
+max-width: 500px;
+
+}
+h1{
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+h1,h2{
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+hr{
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+.item p{
+    display: inline-block;
+    margin-bottom: 2px;
+}
+.flavor{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: right;
+    width: 25%;
+}
+.address{
+    text-align: center;
+}
+.established{
+    font-style: italic;
+    text-align: center;
+}
